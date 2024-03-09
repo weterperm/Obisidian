@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "a1d78316ae32e4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af44da73eed9db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab82545928d182d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89110c01c848f241",
+    "type": "split",
+    "children": [
+      {
+        "id": "59faf6948f0b164c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ebf34bf695aebf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2c70cd3b2a6b3aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81ffc86af5471f7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3254e2e916b1ea1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1605fda6f3b6a1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4c296af53b4181",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "228cc824fea994bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2fa9e905698f821",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "02cb8e5142335205",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ab82545928d182d9",
+  "lastOpenFiles": [
+    "test.md",
+    "README.md"
+  ]
+}
