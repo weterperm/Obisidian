@@ -1,3 +1,0 @@
-# Obisidian
-
-hello world
